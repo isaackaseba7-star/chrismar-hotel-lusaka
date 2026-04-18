@@ -14,7 +14,7 @@ const ROOMS = [
     id: 'twin',
     name: 'Twin Room',
     price: '1,650',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb9goMUHlq35dTzVZs37Yo443BH5zeCk9k_OJLyO7zkdi3d7b3BzjHCiHbJiRCLrHWua0GV-gXXBPjbasgLH_9xtGM2hRfAH2fWyRp6MfLp1ZBgMJPc50pQoasdpOxV__4aeDTMEa0siuk=w203-h270-k-no',
+    image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e7/86/02/standard-double-room.jpg?w=2100&h=1400&s=1',
     description: 'Ideal for friends or colleagues, featuring separate beds with uncompromised comfort and space.',
     features: ['2 Single Beds', 'Spacious Area', 'Lounge Seating', 'Pool View']
   },
@@ -22,7 +22,7 @@ const ROOMS = [
     id: 'deluxe',
     name: 'Deluxe Suite',
     price: '2,200',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb9goMUHlq35dTzVZs37Yo443BH5zeCk9k_OJLyO7zkdi3d7b3BzjHCiHbJiRCLrHWua0GV-gXXBPjbasgLH_9xtGM2hRfAH2fWyRp6MfLp1ZBgMJPc50pQoasdpOxV__4aeDTMEa0siuk=w203-h270-k-no',
+    image: 'http://pix8.agoda.net/property/63964506/0/d1d4cd5c64be190a20ba3fb0ae3b188f.jpeg?ce=0',
     description: 'Experience elevated luxury with our premium suite, offering expansive space and upgraded amenities.',
     features: ['1 King Bed', 'Living Area', 'Premium Bath', 'Balcony']
   }
