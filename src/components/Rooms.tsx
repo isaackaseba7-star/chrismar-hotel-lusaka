@@ -6,7 +6,7 @@ const ROOMS = [
     id: 'double',
     name: 'Double Room',
     price: '1,451',
-    image: 'https://picsum.photos/seed/lux_double_room/800/600',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb9goMUHlq35dTzVZs37Yo443BH5zeCk9k_OJLyO7zkdi3d7b3BzjHCiHbJiRCLrHWua0GV-gXXBPjbasgLH_9xtGM2hRfAH2fWyRp6MfLp1ZBgMJPc50pQoasdpOxV__4aeDTMEa0siuk=w203-h270-k-no',
     description: 'Perfect for solo travelers or couples seeking a cozy, comfortable retreat after a day in the city.',
     features: ['1 Queen Bed', 'En-suite Bathroom', 'Work Desk', 'City View']
   },
@@ -14,7 +14,7 @@ const ROOMS = [
     id: 'twin',
     name: 'Twin Room',
     price: '1,650',
-    image: 'https://picsum.photos/seed/lux_twin_room/800/600',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb9goMUHlq35dTzVZs37Yo443BH5zeCk9k_OJLyO7zkdi3d7b3BzjHCiHbJiRCLrHWua0GV-gXXBPjbasgLH_9xtGM2hRfAH2fWyRp6MfLp1ZBgMJPc50pQoasdpOxV__4aeDTMEa0siuk=w203-h270-k-no',
     description: 'Ideal for friends or colleagues, featuring separate beds with uncompromised comfort and space.',
     features: ['2 Single Beds', 'Spacious Area', 'Lounge Seating', 'Pool View']
   },
@@ -22,7 +22,7 @@ const ROOMS = [
     id: 'deluxe',
     name: 'Deluxe Suite',
     price: '2,200',
-    image: 'https://picsum.photos/seed/lux_deluxe_room/800/600',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb9goMUHlq35dTzVZs37Yo443BH5zeCk9k_OJLyO7zkdi3d7b3BzjHCiHbJiRCLrHWua0GV-gXXBPjbasgLH_9xtGM2hRfAH2fWyRp6MfLp1ZBgMJPc50pQoasdpOxV__4aeDTMEa0siuk=w203-h270-k-no',
     description: 'Experience elevated luxury with our premium suite, offering expansive space and upgraded amenities.',
     features: ['1 King Bed', 'Living Area', 'Premium Bath', 'Balcony']
   }
