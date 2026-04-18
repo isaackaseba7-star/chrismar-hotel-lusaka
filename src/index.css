@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-500: #D4AF37;
+  --color-gold-600: #B8972E;
+  --color-gold-400: #E2C465;
+  --color-zinc-950: #0a0a0a;
+  --color-zinc-900: #18181b;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+@keyframes kenburns {
+  0% { transform: scale(1.0) translate(0, 0); }
+  50% { transform: scale(1.05) translate(2%, 2%); }
+  100% { transform: scale(1.0) translate(0, 0); }
+}
+
+.animate-kenburns {
+  animation: kenburns 20s ease-out infinite alternate;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-zinc-950);
+  color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar for a premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-zinc-950);
+}
+::-webkit-scrollbar-thumb {
+  background: #3f3f46;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gold-600);
+}
